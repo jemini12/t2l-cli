@@ -20,6 +20,5 @@ jemin    console  -                목10   5days -
 ...
 
 T2L >> https://t2l-project.herokuapp.com/documents/k269IfBPCAjgR6YYOoHO
-
 ```
 If you add alias, then it would be much better to use.
