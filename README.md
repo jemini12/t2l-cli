@@ -13,5 +13,13 @@ git clone https://github.com/jemini12/t2l-cli.git
 And just put desired command and pipe it!
 ```
 w | ./t2l
+
+12:46  up 5 days,  2:49, 6 users, load averages: 2.22 2.28 2.82
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+jemin    console  -                목10   5days -
+...
+
+T2L >> https://t2l-project.herokuapp.com/documents/k269IfBPCAjgR6YYOoHO
+
 ```
-If you add alias, then it will be much better to use.
+If you add alias, then it would be much better to use.
